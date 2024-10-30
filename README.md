@@ -2,7 +2,7 @@
 
 
 ### Subjects & Challenges:
-- 
+- Using PCA for a dataset
 
 ### Setup Instructions
 
